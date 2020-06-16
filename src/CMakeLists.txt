@@ -2,7 +2,8 @@ cmake_minimum_required(VERSION 3.2)
 set($TARGET simple_map_reduce)
 
 add_executable(${TARGET}
-    main.cpp)
+    main.cpp
+    args_parser.h args_parser.cpp)
 
 set_target_properties(${TARGET} PROPERTIES
     CXX_STANDARD 17
