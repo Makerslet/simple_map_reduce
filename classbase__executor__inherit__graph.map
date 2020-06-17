@@ -1,0 +1,5 @@
+<map id="base_executor" name="base_executor">
+<area shape="rect" id="node2" href="$classmap.html" title="map" alt="" coords="5,80,56,107"/>
+<area shape="rect" id="node3" href="$classreduce.html" title="reduce" alt="" coords="80,80,147,107"/>
+<area shape="rect" id="node4" href="$classshuffle.html" title="shuffle" alt="" coords="171,80,237,107"/>
+</map>

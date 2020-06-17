@@ -1,3 +1,11 @@
 <map id="src/main.cpp" name="src/main.cpp">
-<area shape="rect" id="node2" href="$args__parser_8h.html" title="args_parser.h" alt="" coords="340,80,449,107"/>
+<area shape="rect" id="node2" href="$args__parser_8h.html" title="args_parser.h" alt="" coords="439,80,548,107"/>
+<area shape="rect" id="node7" href="$yamr_8h.html" title="yamr.h" alt="" coords="804,80,871,107"/>
+<area shape="rect" id="node21" href="$utils_8h.html" title="utils.h" alt="" coords="995,162,1058,189"/>
+<area shape="rect" id="node8" href="$map_8h.html" title="map.h" alt="" coords="806,162,869,189"/>
+<area shape="rect" id="node19" href="$shuffle_8h.html" title="shuffle.h" alt="" coords="703,162,782,189"/>
+<area shape="rect" id="node20" href="$reduce_8h.html" title="reduce.h" alt="" coords="893,162,971,189"/>
+<area shape="rect" id="node9" href="$defines_8h.html" title="defines.h" alt="" coords="879,244,961,271"/>
+<area shape="rect" id="node14" href="$functors_8h.html" title="functors.h" alt="" coords="985,244,1071,271"/>
+<area shape="rect" id="node17" href="$base__executor_8h.html" title="base_executor.h" alt="" coords="676,244,804,271"/>
 </map>

@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classbase__executor.html" title="base_executor" alt="" coords="5,56,123,83"/>
+<area shape="rect" id="node2" href="$classmap.html" title="map" alt="" coords="179,5,229,32"/>
+<area shape="rect" id="node3" href="$classreduce.html" title="reduce" alt="" coords="171,56,237,83"/>
+<area shape="rect" id="node4" href="$classshuffle.html" title="shuffle" alt="" coords="171,107,237,133"/>
+</map>
