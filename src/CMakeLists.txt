@@ -3,7 +3,15 @@ set($TARGET simple_map_reduce)
 
 add_executable(${TARGET}
     main.cpp
-    args_parser.h args_parser.cpp)
+    args_parser.h args_parser.cpp
+    base_executor.h base_executor.cpp
+    defines.h
+    map.h map.cpp
+    shuffle.h shuffle.cpp
+    reduce.h reduce.cpp
+    yamr.h yamr.cpp
+    utils.h utils.cpp
+    functors.h functors.cpp)
 
 set_target_properties(${TARGET} PROPERTIES
     CXX_STANDARD 17
